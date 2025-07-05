@@ -7,8 +7,9 @@ I created this project as a personal exercise — _“thought of building someth
 ---
 
 ## 📌 Live Demo
-🔗 [My Task
-](https://mohdsahbaz.github.io/To-Do-List/)
+   🔗 Live Demo – https://mohdsahbaz.github.io/To-Do-List/
+
+
 ---
 
 ## 🚀 Features
