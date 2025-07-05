@@ -36,7 +36,7 @@ I created this project as a personal exercise — _“thought of building someth
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/mohdsahbaz/todo-list.git
+   git clone https://github.com/MohdSahbaz/To-Do-List.git
    ```
    Open index.html in your browser — that's it!
 
